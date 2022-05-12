@@ -1,0 +1,6 @@
+project: glsl
+target: parse-expr
+duration: 90
+
+cmds:
+    - cmd: /parse-expr
